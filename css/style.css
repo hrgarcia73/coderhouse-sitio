@@ -194,6 +194,7 @@ Por sugerencia de Felipe, eliminamos el código correspondiente al hr
     align-items: center;
     flex-direction: column;
     background-color: #f7f7f7;
+    padding-bottom: 20%;
 }
 .nosotros-titulo {
     width: 45%;
@@ -201,7 +202,7 @@ Por sugerencia de Felipe, eliminamos el código correspondiente al hr
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    padding-top: 5%;
+    padding-top: 10%;
 }
 .nosotros-titulo h2{
     font-family: 'Mohave', sans-serif;
@@ -294,7 +295,7 @@ Por sugerencia de Felipe, eliminamos el código correspondiente al hr
     font-size: 3rem;
     color: #929497; 
     text-align: center;
-    margin-top: 2%;
+    padding-top: 5%;
 }
 .soluciones-items-container{
     width: 90%;
@@ -432,6 +433,7 @@ Por sugerencia de Felipe, eliminamos el código correspondiente al hr
     align-items: center;
     justify-content: center;
     flex-wrap: wrap;
+    padding-bottom: 10%;
     
 }
 .ultimos-proyectos-container h2{
@@ -526,7 +528,7 @@ Por sugerencia de Felipe, eliminamos el código correspondiente al hr
     font-size: 3rem;
     color: #929497; 
     text-align: center;
-    margin-top: 2%;
+    padding: 5% 0;
 }
 .clientes-items-container{
     width: 90%;
